@@ -77,4 +77,6 @@ public class tryingStuff {
 	private static void proov1(){
 		System.out.println("proov1");
 	}
+	
+	// smth done on proov2
 }
