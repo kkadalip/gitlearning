@@ -61,6 +61,7 @@ public class tryingStuff {
 //		
 //		String f = String.valueOf(Float.parseFloat(String.valueOf((Float.floatToRawIntBits((float)new Long(new Integer(1)))))));
 //		System.out.println("f = " + f);
+		proov1();
 	}
 	
 	
@@ -71,5 +72,9 @@ public class tryingStuff {
 	
 	private static String fixTypoRemore(String serviceName){
 		return serviceName.replaceAll("remore", "remote");
+	}
+	
+	private static void proov1(){
+		System.out.println("proov1");
 	}
 }
